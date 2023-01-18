@@ -1,0 +1,42 @@
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: "Gill Sans";
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+.main-text {
+    font-size: 20px;
+}
+
+.header {
+    padding: 1px;
+    color: white;
+    background: maroon;
+}
+
+.header-name {
+    text-align: left;
+    margin-left: 10px; 
+    font-size: 20px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.buttons button {
+    display: block;
+    padding: 0px 20px;
+    height: 40px;
+    background-color: orange;
+    text-align: center;
+    line-height: 40px;
+    width: 33%;
+}
