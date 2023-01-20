@@ -1,4 +1,3 @@
 function runSoloMode() {
-  console.log("Solo mode");
-  
+  console.log("Solo mode test 3");
 }

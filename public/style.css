@@ -3,6 +3,7 @@ body {
     font-family: "Gill Sans";
     margin: 0;
     padding: 0;
+    font-size: 20px;
 }
 
 h1 {
@@ -10,14 +11,10 @@ h1 {
     margin: 20px;
 }
 
-.main-text {
-    font-size: 20px;
-}
-
 .header {
-    padding: 1px;
+    background-color: maroon;
     color: white;
-    background: maroon;
+    padding: 1px;
 }
 
 .header-name {
